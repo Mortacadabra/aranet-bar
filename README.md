@@ -31,7 +31,7 @@ AranetBar connects to an Aranet4 over Bluetooth Low Energy (BLE), periodically r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ADIIIB/aranet-bar.git
+git clone https://github.com/ADIIIIB/aranet-bar.git
 cd aranet-bar
 ```
 
