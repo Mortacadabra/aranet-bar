@@ -1,0 +1,4 @@
+aranet4==2.6.0
+attrs==25.4.0
+bleak==3.0.2
+dbus-fast==5.0.22
