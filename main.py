@@ -1,4 +1,8 @@
 import gi
+
+gi.require_version("Gtk", "3.0")
+gi.require_version("AyatanaAppIndicator3", "0.1")
+
 import csv
 import sys
 import fcntl
@@ -7,8 +11,7 @@ from datetime import datetime
 from pathlib import Path
 from gi.repository import Gtk, GLib, AyatanaAppIndicator3
 
-gi.require_version("Gtk", "3.0")
-gi.require_version("AyatanaAppIndicator3", "0.1")
+
 
 
 # CONFIG
